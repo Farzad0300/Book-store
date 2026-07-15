@@ -1,0 +1,25 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="l1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12141F"/>
+      <stop offset="1" stop-color="#2A2E4A"/>
+    </linearGradient>
+    <linearGradient id="l1s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#l1)"/>
+  <!-- ترازوی عدالت، ساده‌شده -->
+  <g opacity="0.5" stroke="#C9A227" stroke-width="1.5" fill="none">
+    <line x1="150" y1="60" x2="150" y2="150"/>
+    <line x1="90" y1="85" x2="210" y2="85"/>
+    <path d="M90,85 L75,120 a20,10 0 0 0 30,0 Z"/>
+    <path d="M210,85 L195,120 a20,10 0 0 0 30,0 Z"/>
+    <line x1="120" y1="150" x2="180" y2="150"/>
+  </g>
+  <rect width="300" height="450" fill="url(#l1s)"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">حقوق مدنی به</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">زبان ساده</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#E4CE8B" direction="rtl">علیرضا حسینی</text>
+</svg>

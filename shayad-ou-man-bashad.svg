@@ -1,0 +1,26 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0A0D"/>
+      <stop offset="1" stop-color="#3A2F0D"/>
+    </linearGradient>
+    <linearGradient id="scrimA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.4" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bgA)"/>
+
+  <!-- دو نیم‌رخ روبه‌رو، اشاره به دوگانگیِ هویت -->
+  <g opacity="0.55" fill="none" stroke="#C9A227" stroke-width="1.5">
+    <path d="M110,90 Q90,130 100,170 Q105,200 130,210" />
+    <path d="M190,90 Q210,130 200,170 Q195,200 170,210" />
+  </g>
+  <circle cx="150" cy="150" r="3" fill="#C9A227" opacity="0.8"/>
+
+  <rect width="300" height="450" fill="url(#scrimA)"/>
+
+  <text x="150" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE6D6" direction="rtl">شاید او</text>
+  <text x="150" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#EDE6D6" direction="rtl">من باشد</text>
+  <text x="150" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#E4CE8B" direction="rtl">فرزاد باقری مهدیرجی</text>
+</svg>

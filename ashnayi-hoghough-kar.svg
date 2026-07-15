@@ -1,0 +1,24 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="l3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F1420"/>
+      <stop offset="1" stop-color="#4A3B1E"/>
+    </linearGradient>
+    <linearGradient id="l3s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#l3)"/>
+  <g opacity="0.45" stroke="#C9A227" stroke-width="1.3" fill="none">
+    <rect x="100" y="60" width="100" height="130" rx="6"/>
+    <line x1="115" y1="90" x2="185" y2="90"/>
+    <line x1="115" y1="110" x2="185" y2="110"/>
+    <line x1="115" y1="130" x2="160" y2="130"/>
+    <path d="M100,190 h100" />
+  </g>
+  <rect width="300" height="450" fill="url(#l3s)"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">آشنایی با</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">حقوق کار</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#E4CE8B" direction="rtl">بابک شریفی</text>
+</svg>

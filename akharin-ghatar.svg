@@ -1,0 +1,23 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#B5533C"/>
+    </linearGradient>
+    <linearGradient id="scrim5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg5)"/>
+  <g opacity="0.3" stroke="#EDE6D6" stroke-width="1.5" fill="none">
+    <rect x="40" y="50" width="220" height="6"/>
+    <rect x="40" y="65" width="220" height="6"/>
+    <line x1="60" y1="76" x2="60" y2="140"/>
+    <line x1="240" y1="76" x2="240" y2="140"/>
+  </g>
+  <rect width="300" height="450" fill="url(#scrim5)"/>
+  <text x="150" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">آخرین قطار</text>
+  <text x="150" y="376" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">به اسفندماه</text>
+  <text x="150" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="14" fill="#E7A996" direction="rtl">کاوه رستمی</text>
+</svg>

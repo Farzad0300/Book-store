@@ -1,0 +1,22 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="p2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12161F"/>
+      <stop offset="1" stop-color="#3E5C7C"/>
+    </linearGradient>
+    <linearGradient id="p2s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#p2)"/>
+  <g opacity="0.4" stroke="#A9C6E8" stroke-width="1">
+    <circle cx="150" cy="130" r="60" fill="none"/>
+    <circle cx="150" cy="130" r="40" fill="none"/>
+    <circle cx="150" cy="130" r="20" fill="none"/>
+  </g>
+  <rect width="300" height="450" fill="url(#p2s)"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">ذهن آرام،</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">زندگی روشن</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#C3D9F0" direction="rtl">پیمان کاظمی</text>
+</svg>

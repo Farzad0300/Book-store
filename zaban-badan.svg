@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="p1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1B1E"/>
+      <stop offset="1" stop-color="#2E6B6B"/>
+    </linearGradient>
+    <linearGradient id="p1s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#p1)"/>
+  <g opacity="0.45" stroke="#8FD6D6" stroke-width="1.3" fill="none">
+    <path d="M100,100 q50,-40 100,0 q20,20 0,50 q-20,25 -50,10 q-30,-15 -50,-30 q-15,-15 0,-30 Z"/>
+  </g>
+  <rect width="300" height="450" fill="url(#p1s)"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="#EDE6D6" direction="rtl">زبان بدن در</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="#EDE6D6" direction="rtl">روابط روزمره</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#B8E4E4" direction="rtl">دکتر شیرین علوی</text>
+</svg>

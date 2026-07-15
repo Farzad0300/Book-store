@@ -1,0 +1,26 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#151515"/>
+      <stop offset="1" stop-color="#3A2E0E"/>
+    </linearGradient>
+    <linearGradient id="scrim2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.4" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg2)"/>
+  <!-- الگوی کاشی سنتی، اشاره به نام کتاب -->
+  <g opacity="0.25" stroke="#C9A227" stroke-width="1" fill="none">
+    <rect x="20" y="40" width="40" height="40"/>
+    <rect x="60" y="80" width="40" height="40"/>
+    <rect x="20" y="120" width="40" height="40"/>
+    <rect x="220" y="40" width="40" height="40"/>
+    <rect x="180" y="80" width="40" height="40"/>
+    <rect x="220" y="120" width="40" height="40"/>
+  </g>
+  <rect width="300" height="450" fill="url(#scrim2)"/>
+  <text x="150" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="23" fill="#EDE6D6" direction="rtl">سایه‌های</text>
+  <text x="150" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="23" fill="#EDE6D6" direction="rtl">کاشی</text>
+  <text x="150" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="14" fill="#C9A227" direction="rtl">آرش نوروزی</text>
+</svg>

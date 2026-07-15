@@ -1,0 +1,23 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="e3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F1A14"/>
+      <stop offset="1" stop-color="#1F5C3E"/>
+    </linearGradient>
+    <linearGradient id="e3s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#e3)"/>
+  <g opacity="0.4" stroke="#7FE0AE" stroke-width="1.5" fill="none">
+    <path d="M30,80 h60 v30 h40 M90,110 v40 h80 M170,150 h60 v-30 h30"/>
+    <circle cx="30" cy="80" r="3" fill="#7FE0AE" stroke="none"/>
+    <circle cx="260" cy="120" r="3" fill="#7FE0AE" stroke="none"/>
+    <rect x="120" y="60" width="24" height="14" fill="none"/>
+  </g>
+  <rect width="300" height="450" fill="url(#e3s)"/>
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="#EDE6D6" direction="rtl">طراحی مدارهای</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="#EDE6D6" direction="rtl">الکترونیک</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#A8E8C4" direction="rtl">آرمان یوسفی</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgS" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#131C24"/>
+      <stop offset="0.55" stop-color="#2C3B47"/>
+      <stop offset="1" stop-color="#5A2E2E"/>
+    </linearGradient>
+    <linearGradient id="scrimS" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bgS)"/>
+
+  <!-- کوهستان مه‌آلود اسکاتلند -->
+  <path d="M0,230 L60,160 L110,210 L160,140 L210,200 L260,150 L300,210 L300,450 L0,450 Z" fill="#0E1116" opacity="0.55"/>
+  <path d="M0,270 L80,210 L150,250 L220,190 L300,250 L300,450 L0,450 Z" fill="#0A0C10" opacity="0.7"/>
+
+  <!-- مه -->
+  <rect x="0" y="210" width="300" height="40" fill="#EDE6D6" opacity="0.08"/>
+
+  <rect width="300" height="450" fill="url(#scrimS)"/>
+
+  <text x="150" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">رمان اسکاتلندی</text>
+  <text x="150" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="19" fill="#EDE6D6" direction="rtl">جلد اول</text>
+  <text x="150" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#C99A9A" direction="rtl">فرزاد باقری مهدیرجی</text>
+</svg>
